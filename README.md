@@ -10,7 +10,7 @@ This repository provides resources and practical guidance to build **Generative 
 ## 🗂️ Table of Contents
 
 <details>
-<summary>Core Modules</summary>
+<summary>Modules</summary>
 
 1. **Develop Generative AI Applications**  
    Design and deploy AI models capable of generating text, code, and multimedia content.
@@ -42,7 +42,7 @@ This repository provides resources and practical guidance to build **Generative 
 <summary>Upcoming Additions</summary>
 
 - Additional tutorials and resources under **IBM RAG and Agentic AI** will be added soon.
-- **Develop Generative AI Application**
+<!--- **Develop Generative AI Application**
 - **Build RAG Application**
 - **Vector Databases For RAG**
 - **Advanced RAG with vector database and Retrivers**
@@ -51,7 +51,7 @@ This repository provides resources and practical guidance to build **Generative 
 - **Agentic AI with LangChain and LangGraph**
 - **Agentic AI with LangGraph, Crew AI, AutoGen and BeeAI**
 - More example projects and practical applications.
-- Integration with popular cloud AI platforms and vector database services.
+- Integration with popular cloud AI platforms and vector database services.-->
 
 </details>
 
